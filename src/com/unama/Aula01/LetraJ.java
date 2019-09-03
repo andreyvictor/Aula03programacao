@@ -1,4 +1,4 @@
-package com.unama;
+package com.unama.Aula01;
 
 import java.util.Scanner;
 
